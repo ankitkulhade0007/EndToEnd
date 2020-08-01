@@ -6,6 +6,7 @@ public class HelloSonar {
 		System.out.println("Hello Sonar");
 		int i = 500;
 		System.out.println("value fo a is "+i);
+		System.out.println("Hello Sonar happy");
 	}
 
 }
